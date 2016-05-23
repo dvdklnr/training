@@ -166,3 +166,5 @@ Tearing it all down
 1. Back on the settings page, you can optionally delete all of Atlas' metadata
   about the environment by clicking the red "Delete from Atlas" button
 # training
+
+# woo-hoo
